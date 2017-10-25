@@ -3,7 +3,7 @@
 1. Install [Hugo](https://gohugo.io/getting-started/installing/) on your computer and ensure it is in your path with `hugo -h`.
 2. Fork this repository (you may want to clone it to your computer as well).
 3. Go to the `content/post` [folder](https://github.com/ummc-bjc/blog/tree/master/content/post).
-4. Create a post using the below format. You can use rmarkdown or html in your post.
+4. Create a post using the below format. You can use rmarkdown or html in your post. The post should be a `.md` file.
 
 ```r
 +++
