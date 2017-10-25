@@ -1,8 +1,8 @@
 ## How to contribute to this blog
 
-1. Download/install [Hugo](https://gohugo.io/getting-started/installing/) on your computer.
+1. Install [Hugo](https://gohugo.io/getting-started/installing/) on your computer and ensure it is in your path with `hugo -h`.
 2. Fork this repository (you may want to clone it to your computer as well).
-3. Go to the `content/post` folder.
+3. Go to the `content/post` [folder](https://github.com/ummc-bjc/blog/tree/master/content/post).
 4. Create a post using the below format. You can use rmarkdown or html in your post.
 
 ```r
@@ -26,6 +26,7 @@ XYZ is blah blah
 5. Regenerate the site with the following command in the top level of the github repository: `hugo -t`
 6. Change directories to the public folder: `cd public`
 7. Now, add your changes to git and push to Github.
+
 ```bash
 git add .
 git commit -m "Added a new post"
