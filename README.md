@@ -1,35 +1,3 @@
-## How to contribute to this blog
+This repository is used to generate our [blog](https://ummc-bjc.github.io/).
 
-1. Install [Hugo](https://gohugo.io/getting-started/installing/) on your computer and ensure it is in your path with `hugo -h`.
-2. Fork this repository (you may want to clone it to your computer as well).
-3. Go to the `content/post` [folder](https://github.com/ummc-bjc/blog/tree/master/content/post).
-4. Create a post using the below format. You can use rmarkdown or html in your post. The post should be a `.md` file.
-
-```r
-+++
-banner = ""
-categories = ["random"]
-date = "2017-05-20T12:00:23+02:00"
-description = ""
-images = []
-menu = ""
-tags = []
-title = "Random Post"
-+++
-
-Leading information about this post.
-<!--more-->
-
-XYZ is blah blah
-```
-
-5. Regenerate the site with the following command in the top level of the github repository: `hugo -t`
-6. Change directories to the public folder: `cd public`
-7. Now, add your changes to git and push to Github.
-
-```bash
-git add .
-git commit -m "Added a new post"
-git push origin master
-```
-8. Open and submit a [pull request](https://github.com/ummc-bjc/blog/compare).
+Read our [contributing doc](https://github.com/ummc-bjc/blog/blob/master/CONTRIBUTING.md) if you want to contribute.
