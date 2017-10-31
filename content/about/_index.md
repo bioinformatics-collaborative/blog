@@ -5,20 +5,31 @@ menu = "main"
 disable_comments = true
 +++
 
-The UMMC Bioinformatics Journal Club Blog provides a monthly discussion forum for relevant topics,
-journal articles, research projects, and conferences in the context of computational biology, data science, clinical research, and basic science research.
+The Bioinformatics Journal Club provides a monthly discussion forum for Bioinformatics-related journal articles, topics, research projects, and conferences with a multidisciplinary approach including fields such as computational biology, data science, clinical/translational research, biochemistry, physiology, microbiology, genetics, molecular biology, population health, and other research or clinical disciplines.
+
+This blog will contain posts relevant to club meetings, events, and Bioinformatics topics of interest.
 
 
 #### Objectives  
 -  Promote informal interactions between Bioinformatics enthusiasts  
 -  Expose students and researchers to current topics and tools in Bioinformatics  
--  Foster interdepartmental collaborations  
+-  Foster interdepartmental collaborations
+
+### Topics
+- Cloud Computing
+- Big Data Storage and Management
+- Data Analysis & Visualization
+- Novel Bioinformatics Tools & Methods
+- Utilization of the Mississippi Center for Supercomputing Research (MCSR)
+- Discussion of projects encompassing Next-Generation Sequencing (NGS), RNA-Seq, Phylogenetics, Genomics, Proteomics, Psychogenomics, Whole-Genome Sequencing, Microbiomics, Cheminformatics, and more
+
     
 #### Coordinators
 
-[Robert Gilmore](#) & [Shaurita Hutchins](#)
-<!-- <img src="https://datasnakes.github.io/img/team/rg.png" width="150" height="150" alt="Rob Gilmore" /><img src="https://datasnakes.github.io/img/team/sdh.jpg" width="150" height="150" alt="Shaurita Huthcins" /> -->
+[Dr. Lavanya Challagundla, PhD](mailto:lchallagundla@umc.edu) | Bioinformatician  
+[Robert Gilmore](mailto:rgilmore@umc.edu) | Researcher II  
+[Shaurita Hutchins](mailto:shutchins2@umc.edu) | Researcher II  
 
 #### Advisors
 
-[??](#)
+[Dr. Eric Vallender, PhD](https://www2.umc.edu/Eric_Vallender_2C_PhD.asp) | [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Vallender+EJ%5Bauthor%5D)

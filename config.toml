@@ -1,4 +1,4 @@
-baseurl = "http://ummc-bjc.github.io/"
+baseurl = "https://ummc-bjc.github.io/"
 languageCode = "en-us"
 title = "UMMC Bioinformatics Journal Club Blog"
 # Enable comments by entering your Disqus shortname
@@ -51,11 +51,6 @@ theme = "hugo-icarus-theme"
     before = true
     label  = "Home"
     link   = "/"
-
-[[params.menu]]
-    before = false
-    label  = "Categories"
-    link   = "categories/"
 
 # Enter a link for the follow button on the left
 [params.profile]

@@ -1447,7 +1447,7 @@ ol.toc {
   background-position: center;
 }
 .archive-article .archive-article-thumbnail .thumbnail .thumbnail-none {
-  background-image: url("images/thumb-default-small.png");
+  background-color: transparent;
 }
 .archive-article-title {
   display: block;
