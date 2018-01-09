@@ -2,3 +2,7 @@
 	path = public
 	url = https://github.com/ummc-bc/ummc-bc.github.io.git
 	branch = master
+[submodule "public/public"]
+	path = public/public
+	url = https://github.com/ummc-bc/ummc-bc.github.io.git
+	branch = master
