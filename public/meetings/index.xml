@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetings on UMMC Bioinformatics Collaborative Blog</title>
+    <link>https://ummc-bc.github.io/meetings/</link>
+    <description>Recent content in Meetings on UMMC Bioinformatics Collaborative Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Tue, 24 Oct 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://ummc-bc.github.io/meetings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
