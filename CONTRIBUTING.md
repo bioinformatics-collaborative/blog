@@ -29,7 +29,16 @@ XYZ is blah blah
 7. Use `git submodule add -b master https://github.com/ummc-bc/ummc-bc.github.io.git public` to create a git submodule of the public site folder at the `ummc-bc.github.io` repository.
 8. Regenerate the site with the following command in the top level of the github repository: `hugo -t hugo-icarus-theme`
 9. Change directories to the public folder: `cd public`
-10. Now, add your changes to git and push to Github.
+10. Now, add your changes to git and push to Github to publish the site.
+
+```bash
+git add .
+git commit -m "Added a post titled `How to Code`"
+git push origin master
+```
+
+11. Remove the public folder using `rm -rf public/`.
+12. Update the `blog` repository with your changes i.e. new post.
 
 ```bash
 git add .
@@ -37,5 +46,4 @@ git commit -m "Added a new post"
 git push origin master
 ```
 
-11. Repeat `10.` for any updates not in the public folder as well.
-12. Open and submit a [pull request](https://github.com/ummc-bjc/blog/compare).
+13. Open and submit a [pull request](https://github.com/ummc-bjc/blog/compare).
