@@ -23,7 +23,7 @@ Leading information about this post.
 XYZ is blah blah
 ```
 
-5. Regenerate the site with the following command in the top level of the github repository: `hugo -t`
+5. Regenerate the site with the following command in the top level of the github repository: `hugo -t hugo-icarus-theme`
 6. Change directories to the public folder: `cd public`
 7. Now, add your changes to git and push to Github.
 
