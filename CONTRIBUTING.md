@@ -23,13 +23,19 @@ Leading information about this post.
 XYZ is blah blah
 ```
 
-5. Regenerate the site with the following command in the top level of the github repository: `hugo -t hugo-icarus-theme`
-6. Change directories to the public folder: `cd public`
-7. Now, add your changes to git and push to Github.
+
+5. View the site with `hugo `
+6. Remove the public folder using `rm -rf public/`.
+7. Use `git submodule add -b master https://github.com/ummc-bc/ummc-bc.github.io.git public` to create a git submodule of the public site folder at the `ummc-bc.github.io` repository.
+8. Regenerate the site with the following command in the top level of the github repository: `hugo -t hugo-icarus-theme`
+9. Change directories to the public folder: `cd public`
+10. Now, add your changes to git and push to Github.
 
 ```bash
 git add .
 git commit -m "Added a new post"
 git push origin master
 ```
-8. Open and submit a [pull request](https://github.com/ummc-bjc/blog/compare).
+
+11. Repeat `10.` for any updates not in the public folder as well.
+12. Open and submit a [pull request](https://github.com/ummc-bjc/blog/compare).
