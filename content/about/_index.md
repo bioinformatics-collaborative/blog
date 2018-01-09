@@ -5,7 +5,7 @@ menu = "main"
 disable_comments = true
 +++
 
-The Bioinformatics Journal Club provides a monthly discussion forum for Bioinformatics-related journal articles, topics, research projects, and conferences with a multidisciplinary approach including fields such as computational biology, data science, clinical/translational research, biochemistry, physiology, microbiology, genetics, molecular biology, population health, and other research or clinical disciplines.
+The Bioinformatics Collaborative provides a monthly discussion forum for Bioinformatics-related journal articles, topics, research projects, and conferences with a multidisciplinary approach including fields such as computational biology, data science, clinical/translational research, biochemistry, physiology, microbiology, genetics, molecular biology, population health, and other research or clinical disciplines.
 
 This blog will contain posts relevant to club meetings, events, and Bioinformatics topics of interest.
 

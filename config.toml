@@ -1,6 +1,6 @@
 baseurl = "https://ummc-bc.github.io/"
 languageCode = "en-us"
-title = "UMMC Bioinformatics Journal Club Blog"
+title = "UMMC Bioinformatics Collaborative Blog"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "ummcbc"
 # Enable Google Analytics by entering your tracking code
@@ -20,7 +20,7 @@ theme = "hugo-icarus-theme"
 [params]
     # Tell me who you are
     author = "UMMC BC"
-    bio = "UMMC Bioinformatics Collaborative Blog"
+    bio = "UMMC Bioinformatics Collaborative"
     location = "Jackson, MS"
     site_description = ""
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."

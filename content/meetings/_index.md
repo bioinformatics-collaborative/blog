@@ -5,12 +5,12 @@ menu = "main"
 disable_comments = true
 +++
 
-Meetings will be listed here with date, time, and location. You can also get more information including meeting materials from the [meetings repository](https://github.com/ummc-bjc/meetings).
+Meetings will be listed here with date, time, and location. You can also get more information including meeting materials from the [meetings repository](https://github.com/ummc-bc/meetings).
 
 
-| Meeting Title                                | Date | Time |Location|
-|----------------------------------------------|------|------|--------|
-| [Bioinformatics Journal Club Interest Meeting](#) | TBD  | TBD  | TBD    |
+| Meeting Title                                      | Date | Time |Location|
+|----------------------------------------------------|------|------|--------|
+| [Bioinformatics Collaborative Interest Meeting](#) | February 6th, 2018  | noon  | TBD    |
 
 
 <p align="right"><i>*TBD = To Be Determined</i></p>
