@@ -30,6 +30,6 @@ This blog will contain posts relevant to club meetings, events, and Bioinformati
 [Robert Gilmore](mailto:rgilmore@umc.edu) | Researcher II  
 [Shaurita Hutchins](mailto:shutchins2@umc.edu) | Researcher II  
 
-#### Advisors
+#### Advisor
 
 [Dr. Eric Vallender, PhD](https://www2.umc.edu/Eric_Vallender_2C_PhD.asp) | [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Vallender+EJ%5Bauthor%5D)

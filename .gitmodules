@@ -1,7 +1,3 @@
-[submodule "ummc-bc.github.io"]
-	path = ummc-bc.github.io
-	url = https://github.com/ummc-bc/ummc-bc.github.io.git
-	branch = master
 [submodule "public"]
 	path = public
 	url = https://github.com/ummc-bc/ummc-bc.github.io.git
