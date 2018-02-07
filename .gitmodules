@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/ummc-bc/ummc-bc.github.io.git
+	url = https://github.com/bioinformatics-collaborative/bioinformatics-collaborative.github.io.git
 	branch = master
