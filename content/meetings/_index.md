@@ -13,6 +13,7 @@ Meetings will be listed here with date, time, and location. You can also get mor
 | [Bioinformatics Collaborative Interest Meeting](https://github.com/bioinformatics-collaborative/meetings/tree/master/2018-02-06) | February 6th, 2018  | noon  | N716 (7A)    |
 | [Ben Pharr Seminar](#) | February  | noon  | TBD    |
 | [Shane Sanders Seminar](#) | March  | noon  | TBD    |
+| [Joe Huang Seminar](#) | March 26th, 2019  | 1 PM  | N318 (3A)   |
 
 
 <p align="right"><i>*TBD = To Be Determined</i></p>
