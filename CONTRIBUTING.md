@@ -25,8 +25,8 @@ XYZ is blah blah
 
 
 5. View the site with `hugo `
-6. Remove the public folder using `rm -rf public/`.
-7. Use `git submodule add -b master https://github.com/ummc-bc/ummc-bc.github.io.git public` to create a git submodule of the public site folder at the `ummc-bc.github.io` repository.
+6. Remove the public folder using `git rm -rf public/`.
+7. Use `git submodule add -b master --force https://github.com/ummc-bc/ummc-bc.github.io.git public` to create a git submodule of the public site folder at the `ummc-bc.github.io` repository.
 8. Regenerate the site with the following command in the top level of the github repository: `hugo -t hugo-icarus-theme`
 9. Change directories to the public folder: `cd public`
 10. Now, add your changes to git and push to Github to publish the site.
