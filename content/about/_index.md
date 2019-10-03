@@ -1,6 +1,6 @@
 +++
 title = "About"
-date = "2017-10-24T21:49:20+02:00"
+date = "2019-10-02T21:49:20+02:00"
 menu = "main"
 disable_comments = true
 +++
@@ -24,11 +24,11 @@ This blog will contain posts relevant to club meetings, events, and Bioinformati
 - Discussion of projects encompassing Next-Generation Sequencing (NGS), RNA-Seq, Phylogenetics, Genomics, Proteomics, Psychogenomics, Whole-Genome Sequencing, Microbiomics, Cheminformatics, and more
 
     
-#### Coordinators
+#### Organizers
 
-[Dr. Lavanya Challagundla, PhD](mailto:lchallagundla@umc.edu) | Bioinformatician  
 [Robert Gilmore](mailto:rgilmore@umc.edu) | Researcher II  
-[Shaurita Hutchins](mailto:shutchins2@umc.edu) | Researcher II  
+[Shaurita Hutchins](mailto:shutchins2@umc.edu) | Researcher II
+[Dr. Gouri Mahajan, PhD](mailto:gmahajan@umc.edu) | Director of UMMC's Biobank Research Lab 
 
 #### Advisor
 
