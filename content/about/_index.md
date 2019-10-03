@@ -27,7 +27,7 @@ This blog will contain posts relevant to club meetings, events, and Bioinformati
 #### Organizers
 
 [Robert Gilmore](mailto:rgilmore@umc.edu) | Researcher II  
-[Shaurita Hutchins](mailto:shutchins2@umc.edu) | Researcher II
+[Shaurita Hutchins](mailto:shutchins2@umc.edu) | Researcher II  
 [Dr. Gouri Mahajan, PhD](mailto:gmahajan@umc.edu) | Director of UMMC's Biobank Research Lab 
 
 #### Advisor
